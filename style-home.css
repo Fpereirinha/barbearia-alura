@@ -1,0 +1,104 @@
+header{
+	background: lightgray;
+	padding: 40px 0;
+}
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+#menu{
+	position: absolute;
+	top: 110px;
+	right: 0px;
+}
+nav li{
+	display: inline;
+	margin-left: 15px;
+}
+nav a{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+}
+nav a:hover{
+	color: darkgoldenrod;
+	text-decoration: underline;
+}
+#banner{
+	width: 100%;
+}
+.centralizar{
+	text-align: center;
+}
+.principal{
+background: lightgrey;
+padding: 40px;
+}
+.indexprincipal a{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+.indexprincipal a:hover{
+	color: darkgoldenrod;
+	text-decoration: underline;
+}
+.alinhar{
+	position: absolute;
+	top: 10px;
+	right: 30px;
+	font-size: 30px;
+}
+.indexprincipal h1{
+	font-size: 45px;
+	padding-left: 20px;
+}
+
+
+em strong{
+	color: red;
+}
+
+p{
+text-align: center;
+}
+
+#missao{
+font-size: 20px
+}
+.beneficios{
+	background: white;
+}
+h3{
+	font-size: 40px;
+}
+.vantagens{
+	font-size: 30px;
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.oll{
+	font-weight: bold;
+	font-style: italic;
+}
+#beneficios{
+	width: 50%;
+	padding: 15px;
+}
+footer{
+	padding: 40px 0 ;
+	text-align: center;
+	background: url("bg.jpg");
+}
+.copyr{
+	color: white;
+	font-size: 13px;
+	margin-top: 20px;
+}
+
+
